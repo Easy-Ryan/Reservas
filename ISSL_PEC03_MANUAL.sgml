@@ -1,0 +1,30 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook V4.1//EN">
+<article lang="es">
+  <title>Manual de Uso de la Pagina de Reserva de Vuelos de EasyRyan</title>
+  <articleinfo>
+    <title>Manual de Uso de la Pagina de Reserva de Vuelos de EasyRyan</title>
+    <author>
+      <firstname>Agustin</firstname>
+      <surname>Ventura Carrasco</surname>
+    </author>
+  </articleinfo>
+
+    <section>
+      <title>Seleccion de Origen y Destino</title>
+      <para>A continuacion se describen las operaciones para la seleccion del origen y el destino del vuelo.</para>
+      <section>
+        <title>Seleccion del Origen</title>
+        <para>Para la seleccion del origen se muestra una caja de texto en la que introducir la ciudad o acronimo del aeropuerto de origen. Se dispone de autocompletar, por ejemplo, si introduce <userinput>"m"</userinput> se mostraran todas las ciudades o aeropuertos que empiecen por "m" como "Madrid" o "Malaga".</para>
+	<para>Al pulsar la flecha de la derecha, se abre una ventana emergente que permite escoger el pais de los aeropuertos. Esta lista presenta inicialmente diez paises ordenados alfabeticamente junto con una barra de scroll para poderlos mostrar todos. Al pulsar uno de ellos se carga la lista de aeropuertos desde los que tomar un vuelo en ese pais. Al pulsar un aeropuerto aparece el nombre de este en la caja de texto de destino y desaparece la ventana emergente.</para>
+      </section>
+      <section>
+        <title>Seleccion del Destino</title>
+        <para>Para la seleccion del destino se muestra una caja de texto en la que introducir la ciudad o acronimo del aeropuerto de origen.</para>
+	<caution>
+	  <para>Tan solo se mostraran aquellas ciudades a las que se pueda volar desde el origen.</para>
+	</caution>
+	<para>Se dispone de autocompletar, por ejemplo, si introduce <userinput>"m"</userinput> se mostraran todas las ciudades o aeropuertos que empiecen por "m" como "Madrid" o "Malaga" y a las que haya vuelo desde el origen.</para>
+	<para>Al pulsar la flecha de la derecha, se abre una ventana emergente que permite escoger el pais de los aeropuertos. Esta lista presenta inicialmente diez paises ordenados alfabeticamente junto con una barra de scroll para poderlos mostrar todos. Tan solo se muestran aquellos paises con algun aeropuerto al que se pueda volar desde el origen. Al pulsar uno de ellos se carga la lista de aeropuertos a los que volar en ese pais desde el origen. Al pulsar un aeropuerto aparece el nombre de este en la caja de texto de destino y desaparece la ventana emergente.</para>
+      </section>
+  </section>
+</article> 
